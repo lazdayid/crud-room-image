@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crud Room Image Kotlin</string>
+    <string name="action_settings">Settings</string>
+</resources>
